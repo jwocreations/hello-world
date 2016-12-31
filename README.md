@@ -1,5 +1,5 @@
 # hello-world
-First repository created
+First repository
 
 Today is December 31, 2016. 
 Created hello-world repository then a readme-edit branch
